@@ -30,7 +30,7 @@ A fun and interactive web-based drum kit that lets users play different drum sou
 ---
 
 ## 🔗 Live Demo:
-https://yourusername.github.io/Drum-Kit/
+https://akashdheer17.github.io/Drum-Kit/
 
 ---
 
